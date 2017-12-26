@@ -1,4 +1,4 @@
-* Created reports based on the views in the repo. Added charts and graphs as appropriate
+# Created reports based on the views in the repo. Added charts and graphs as appropriate
   * Creation of reports for each view
   * Reports formatted to effectively display information
   * Reports deployed to report server
