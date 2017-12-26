@@ -1,3 +1,6 @@
+/* ===========
+See notes for description of these views and procedures
+==============*/
 
 /*--summary of how many buses are assigned to each bus barn
 */
