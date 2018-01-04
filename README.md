@@ -1,5 +1,5 @@
 # Database Programming
-A repo for developing, testing and deploying database solutions. Currently, it is focused on SQL Server
+A repo for developing, testing and deploying database solutions. Currently, it is focused on Microsoft SQL Server
 
 ## Outline
 * Overview of SQL Server components related to importing and reporting
